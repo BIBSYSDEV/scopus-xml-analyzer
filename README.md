@@ -8,6 +8,6 @@ Place xml files in folder /resources
 
 Python 3.10
 
-'''sh
-pip install xmlschema
-'''
+```shell
+- pip install xmlschema
+```
